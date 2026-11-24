@@ -1,31 +1,35 @@
 The Wire
 ========
 
-//The Wire//2300Z November 20, 2026//
+//The Wire//2300Z November 23, 2026//
 //ROUTINE//
-//BLUF: DEPARTMENT OF AGRICULTURE VICTIM OF CYBERATTACK, WHITE HOUSE FIRES CYBERSECURITY ADVISOR. SAUDI ARABIA/YEMEN TRADE MISSILE/DRONE STRIKES OVERNIGHT.//
+//BLUF: WAR IN UKRAINE EXPANDS TO NORTHERN AFRICA AS UKRAINE SINKS RUSSIAN WARSHIP IN LIBYA. POSSIBLE IRANIAN BLOCKADE RUN ATTEMPTED IN PERSIAN GULF, BEFORE ALL SIDES DENY INVOLVEMENT.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Saudi Arabia: Overnight, Saudi forces conducted strikes at the Yemeni port of Hudaydah, in retaliation for the Houthi strikes on their financial sector yesterday. Immediately following the Saudi retaliation, Ansar Allah (the Houthis) launched a counteroffensive drone/missile attack, and both sides traded missiles throughout the evening.
+North Africa: This morning the Ukrainian War expanded to include Libya, after Ukrainian forces conducted a drone boat attack on Russian vessels off the coast of Benghazi. Multiple Unmanned Surface Vessels (USVs) were utilized by Ukraine to strike a Russian cargo vessel (possibly the M/V *ANGARA*), while other USVs targeted the Russian Corvette MERKURY sitting pierside in Benghazi. The MERKURY was sunk, and the status of the freighter remains unknown.
+
+Analyst Comment: This strike is a big deal, as the Ukrainian War is now officially (and technically) a global conflict. Of course, one strike (while effective) is not going to turn the tide of the war. But the grand question remains...where were the drone boats launched from? If Ukraine has a land-based presence outside of their own borders, this is now an Expeditionary war, which has great potential to continue spilling outside the bounds of eastern Europe.
 
 -HomeFront-
 
-Washington D.C. - Overnight the Department of Agriculture reported a large-scale cyberattack, which took their systems offline this week. Various USDA websites remained offline for some time, with the main frontend disruptions being reported in the portals used to manage grants and insurance policies. The USDA stated that the cyberattack exploited a vulnerability which resulted in IT departments having to reset all passwords in all server environments, and as a result, further hiccups and disruptions might take place over the next few days.
+USA: Around the nation, IT issues and cyberattacks have continued. Over the weekend, Delta Airlines reported an IT issue with the systems used to measure and report aircraft takeoff weights, which grounded almost 1,700x flights while the issue was being worked on Sunday.
 
-Separately, National Cybersecurity Director Sean Cairncross was dismissed yesterday afternoon, with his replacement being named as current Pentagon CIO Kirsten Davies. This position is responsible for advising the President on all cybersecurity issues.
+California: This afternoon, the city of San Luis Obispo issued an emergency Do Not Drink order for parts of the city, after alarms tripped at a local water treatment facility, indicating that the water supply may have been tampered with. No further information has been released, and this is a developing situation at the time of this report.
 
-Iowa: Today's detonation of lead azide at the Iowa Army Ammunition Plant has been delayed, after public outrage over the blast causing widespread lead contamination. The controlled detonation will now take place on Monday, after more preparations can be undertaken by locals to protect against lead exposure.
+Washington D.C. - In an interview with Fox News, President Trump stated that he is "inclined" to resume the large scale bombing of Iran after the new year begins. No further comment was made on the potential for war restart, other than that if Iran does not make a deal by New Year's, the war will resume.
 
-Analyst Comment: Staying indoors on blast day is one of the primary means of protecting against lead exposure, but agricultural efforts will still be affected by the detonation; there are a lot of corn fields in the zone expected to be contaminated with lead, which has caused concerns for next years crop as the lead dust will be plowed into the soil during normal farming operations. Schools also remain closed and government agencies recommend children to stay indoors for some time, as the lead dust from the explosive compound is expected to settle over the area.
+Also in Washington, President Trump called in the the Nvidia board meeting this morning, urging the board to reinstate Jensen Huang as CEO. Following this call, the board voted to reinstate Huang. In media interviews afterward, President Trump stated that the reason for his personal involvement was to prevent Huang from being poached by Chinese companies.
 
 -----END TEARLINE-----
 
-Analyst Comment: Despite the frequent and adamant assertions to the contrary, enough evidence has stacked up to indicate that some form of cyber war is being waged in the shadows. Discerning the genuine cyberattacks from regular IT outages is challenging now that a lot of people are paying attention, and the mere increased focus is likely to make the recent cyber incidents seem more substantial than they are. Nevertheless, every day brings a new government agency, large corporation, or critical infrastructure that's targeted, most of which are nuisance-grade attacks, or routine criminal behavior. JP Morgan finally admitted last night that the "incidents" they experienced last weekend were actually the result of cyberattacks, which contradicts statements by officials on these outages.
+Analyst Comment: In the Middle East, a brief saga took place in the Persian Gulf, and the heavy fog of war has not made it easy to determine what happened, versus what is *claimed* to have happened. On Saturday night, Iran decided to launch a new tactic, dubbed Operation Fereydoun. This plan revolved around a large number of tanker vessels beginning to maneuver toward the Gulf of Oman and attempting to breach the American blockade line. Within Iranian media, this blockade-run was highly publicized, and the first ship was even named the *KHAT SHEKAN*, which translates to "Line Breaker" in Persian.
 
-Projecting out future threats, moving into the holiday travel season, malign actors are likely to carry out cyberattacks during the week of Thanksgiving, in an attempt to capitalize on the chaos. It would not be surprising in the slightest for malign actors to carry out cyberattacks on airline ticketing networks, travel reservation websites, payment services, or critical servers for random websites, right when the frustration will be at it's maximum effectiveness. As a result, flexibility during the holiday travel season is recommended.
+As of this morning, it's questionable as to whether or not this plan was actually conducted at all. GPS spoofing is heavy in the region right now, and there is a lot of evidence to suggest that the Iranian ships are not actually attempting to breach the American blockade line, but rather their GPS track is being spoofed to appear that these ships are making a run for it. There is also some evidence to suggest that some of these ships don't actually exist, and are instead fabricated AIS tracks showing up on ship tracking websites. The *KHAT SHEKAN* is almost certainly a fake ship, and her AIS track has bounced around the region all weekend. This afternoon, official Iranian social media pages are denying the entire affair, saying that they never intended to run the blockade after all.
+
+Bottom line, shenanigans are afoot in the Strait of Hormuz, and this time it's not just the Americans playing games on the information front. It is rather interesting that Iran feels the need to conduct a fake operation at this time, when they haven't really needed to in the past. If Iran is genuinely trying to run the gauntlet (either now, or at some point in the immediate future), it's highly likely the US Navy will intercept these vessels just like they have before. However, Iran has probably managed to sneak some tankers through the American blockade line, using a variety of trickery and ship-to-ship transfers of their own. The grand question remains of whether or not these logistical efforts will reignite the war, at a time when diplomatic efforts to cool the situation are not on the table.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
